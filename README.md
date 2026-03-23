@@ -1,6 +1,6 @@
-# Olá, eu sou a Laíssa Vitória! 👋
+# Olá, eu sou a Laíssa Vitória! 
 
- Juazeiro do Norte, CE | 💡 **Apaixonada por construir soluções inovadoras e seguras**
+ Juazeiro do Norte, CE | **Apaixonada por construir soluções inovadoras e seguras**
 
 *Estudante de Engenharia de Software | Desenvolvedora Fullstack | Java & Spring Boot | Entusiasta de Cibersegurança*
 
@@ -8,7 +8,7 @@ Bem-vindo ao meu perfil! Sou uma desenvolvedora focada em criar aplicações esc
 
 
 
-Tecnologias & Ferramentas
+Tecnologias & Ferramentas:
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
