@@ -39,7 +39,7 @@ Estou sempre aberta a colaborar em projetos interessantes ou discutir novas idei
 
 
 
-Eu acredito que a base teórica sólida (meus cadernos de anotações!) combinada com a prática no IntelliJ é o que constrói uma grande engenheira. 📚💻
+Eu acredito que a base teórica sólida (meus cadernos de anotações!) combinada com a prática no IntelliJ é o que constrói uma grande engenheira. 
 
 ```java
 public class PerfilProfissional {
