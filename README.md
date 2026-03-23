@@ -1,37 +1,50 @@
-# Laíssa Vitória Martins dos Santos
-**Software Engineering Student | Backend Developer | Java & Spring Boot**
+# Hi there, I'm Laíssa Vitória! 👋
+
+ in Juazeiro do Norte, CE | 💡 **Passionate about building innovative & secure solutions**
+
+*Software Engineering Student | Fullstack Developer | Java & Spring Boot Enthusiast | Cybersecurity Student*
+
+Welcome to my GitHub profile! I'm a passionate software developer with a focus on creating scalable, secure, and user-friendly applications. I enjoy working on the backend, exploring security protocols, and constantly learning new tools and frameworks.
 
 
 
 
-Estudante de Engenharia de Software focada no desenvolvimento de sistemas robustos e escaláveis. Especialista em construção de **APIs RESTful** com o ecossistema **Java/Spring**, aplicando padrões de projeto e segurança da informação. Atualmente, aprofundo meus conhecimentos em **Cibersegurança** (FIAP/CISCO) e arquitetura de microsserviços.
 
-
-
-| Área | Tecnologias |
-| :--- | :--- |
-| **Backend** | Java, Spring Boot, Spring Data JPA, Spring Security, Maven |
-| **Frontend** | React, JavaScript (ES6+), HTML5, CSS3 (Glassmorphism) |
-| **Bancos de Dados** | MySQL, MongoDB |
-| **Ferramentas & Infra** | Git, Linux, Redes de Computadores, Postman |
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viicmartns&show_icons=true&theme=transparent&title_color=9d4edd&text_color=ffffff&icon_color=9d4edd&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viicmartns&layout=compact&theme=transparent&title_color=9d4edd&text_color=ffffff&hide_border=true" width="45%" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </p>
 
 
-* 🚀 **[usuarioapi](https://github.com/viicmartns/usuarioapi):** Implementação de CRUD completo com autenticação JWT e Spring Security.
-* 🌐 **[portifolio-laissa](https://github.com/viicmartns/portifolio-laissa):** Interface moderna com foco em performance e UI/UX.
+
+I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laissavitoria/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laissavitoriasantos.ce@gmail.com)
 
 
 
+I use my structured notes and IntelliJ IDEA to build the bridge between theory and practical code! 📚💻
 
-[LinkedIn](https://www.linkedin.com/in/laissavitoria/) • [E-mail](mailto:laissavitoriasantos.ce@gmail.com) • [Portfólio](https://portifolio-laissavitoria.vercel.app)
+```python
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Laíssa Vitória"
+        self.role = "Passionate Developer & Engineering Student"
+        self.focus = ["Java", "Spring Boot", "Cybersecurity"]
+        
+    def say_hi(self):
+        print("Continuously evolving and building secure code!")
 
-
-<p align="center">
-  <sub>"Construindo soluções seguras e eficientes, um commit por vez."</sub>
-</p>
+me = SoftwareEngineer()
+me.say_hi()
